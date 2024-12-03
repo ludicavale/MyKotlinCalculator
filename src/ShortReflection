@@ -1,0 +1,6 @@
+Como parte del aprendizaje de Kotlin, realizar este ejercico es importante ya que conlleva diferentes términos de
+programación como los son los ciclos while, condicionales when/else, así como la lógica básica de las funciones presentadas.
+
+Como retos pude observar la parte del string format en kotlin y la parte del lowercase,e l cual en un inicio inicie con la
+función deprecada pero luego corregí cuando breogan me comentó que es diferente y debía considerar el Locale como punto de
+partida
